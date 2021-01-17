@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{628b580f-3128-4816-a264-7979102753b6}">
+		<property name="assetPath">
+			<value>enemy_dialog.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.2978333333333332</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a2a5e747-ae5b-44bd-8a6d-298661d8ebd0}</destination>
+		</relationship>
+	</object>
+</objects>
